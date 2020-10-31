@@ -1,1 +1,1 @@
-[screenshot](vim.png)
+![screenshot](vim.png)
